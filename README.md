@@ -1,2 +1,2 @@
 # learnaction
-Through this repo i will learn the github actions.
+Through this repo, I will learn GitHub Actions.
